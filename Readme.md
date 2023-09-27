@@ -1,4 +1,4 @@
-# **Full web-scraping and data analysis - MARS**
+# **Full Web-Scraping and Data Analysis - MARS**
 
 This is an exercise on web-scraping using Python's libraries Splinter, BeautifulSoup, Pandas and Matplotlib. There are two tasks in this exercise.
 
